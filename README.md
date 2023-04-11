@@ -16,9 +16,7 @@ ZephyrusNFT is a nft collection that has identical colorful art on the Solana ne
 
 ## Roadmap
 
-- Additional browser support
-
-- Add more integrations
+- Comingsoon
 
 
 ## Banner
